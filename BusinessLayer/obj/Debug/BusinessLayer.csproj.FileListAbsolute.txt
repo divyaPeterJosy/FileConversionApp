@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\source\repos\FileConversion\BusinessLayer\obj\Debug\BusinessLayer.pdb
